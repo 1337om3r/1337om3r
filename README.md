@@ -13,7 +13,7 @@
       <img src="https://komarev.com/ghpvc/?username=1337om3r&color=5865f2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
     <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-!om3r-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-om3rxd-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="mailto:omeralibayrakcii@gmail.com">
       <img src="https://img.shields.io/badge/Email-omeralibayrakcii%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
